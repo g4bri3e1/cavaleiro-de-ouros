@@ -7,9 +7,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Poesia humana para que as IA's possam elaborar em um futuro próximo...
 
   blog de confissões...
-baseurl: "/cavaleiro-de-ouros" # the subpath of your site, e.g. /blog
-url: "https://g4bri3e1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: _plotopy
+baseurl: "/cavaleiro-de-ouros"
+url: "https://g4bri3e1.github.io"
+twitter_username: _plutopy
 github_username: g4bri3e1 
 
 # Build settings
